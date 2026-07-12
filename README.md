@@ -15,7 +15,6 @@ git pull
 
 
 
-
 to push:-
 git push origin -u main  (for first time)
 
